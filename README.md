@@ -43,7 +43,7 @@
 
 ### 📬 Let's Connect
 
-- 📧 Email: [youremail@example.com](mailto:muhammadriskiakbar118@gmail.com)
+- 📧 Email: [muhammadriskiakbar118@gmail.com](mailto:muhammadriskiakbar118@gmail.com)
 - 💬 Always happy to chat about coding, security, or just learning in general!
 
 ---
